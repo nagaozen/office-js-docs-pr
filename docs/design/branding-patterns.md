@@ -7,7 +7,7 @@ localization_priority: Normal
 
 # Branding patterns
 
-These patterns provide brand visibilty and context to your add-in users. 
+These patterns provide brand visibility and context to your add-in users. 
 
 ## Best practices
 
